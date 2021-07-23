@@ -20,7 +20,7 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "FAN",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
 "INTER_COUNT" : 2,
 
@@ -35,9 +35,9 @@
 
 "STARAPPID" : "",
 
-"ADMOB_BANNER" : "",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-1722129164883844/4646738435",
+"ADMOB_INTER" : "ca-app-pub-1722129164883844/4856274387",
+"ADMOB_NATIV" : "ca-app-pub-1722129164883844/8394411755",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
